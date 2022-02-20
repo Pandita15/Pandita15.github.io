@@ -106,6 +106,7 @@ span {
 .about img {
     width: 100%;
     grid-column: 1/5;
+    margin-top: 5em;
 }
 
 .about-info {
